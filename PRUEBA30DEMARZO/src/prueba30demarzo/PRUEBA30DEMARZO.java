@@ -31,6 +31,10 @@ public class PRUEBA30DEMARZO {
         System.out.println("Denis Joel Cifuentes Cano");
         System.out.println("Zona 1 Chiantla");
         System.out.println("45883960");
+        
+        System.out.println("Marvin Arnoldo Ordoñez Jimenez");
+        System.out.println("Zona 8, Huehuetenango");
+        System.out.println("48548846");
 
     }
     
