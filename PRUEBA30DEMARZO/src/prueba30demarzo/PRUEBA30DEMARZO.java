@@ -27,6 +27,10 @@ public class PRUEBA30DEMARZO {
         System.out.println("Nombre: Geovanni Alfredo Argueta Anzueto");
         System.out.println("Direccion: 5av 3-67 Zona 6");
         System.out.println("Telefono: 55748374");
+        
+        System.out.println("Denis Joel Cifuentes Cano");
+        System.out.println("Zona 1 Chiantla");
+        System.out.println("45883960");
 
     }
     
