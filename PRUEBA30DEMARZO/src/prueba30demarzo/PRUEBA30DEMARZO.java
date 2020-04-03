@@ -35,6 +35,10 @@ public class PRUEBA30DEMARZO {
         System.out.println("Marvin Arnoldo Ordoñez Jimenez");
         System.out.println("Zona 8, Huehuetenango");
         System.out.println("48548846");
+        
+        System.out.println("José Dagoberto Pérez Villatoro");
+        System.out.println("2da avenida b 9-20 zona 3");
+        System.out.println("32801288");
 
     }
     
